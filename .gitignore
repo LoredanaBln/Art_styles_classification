@@ -1,2 +1,6 @@
 /dataset/
 /.dist/
+/.idea/
+/models/
+/plots/
+/runs/
